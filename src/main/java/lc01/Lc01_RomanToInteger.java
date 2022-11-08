@@ -48,5 +48,6 @@ public class Lc01_RomanToInteger {
             switch (s) {
                 case "I":
             }
+        return  result;
     }
 }
